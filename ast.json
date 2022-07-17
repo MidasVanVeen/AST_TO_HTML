@@ -1,0 +1,28 @@
+{
+	"nodeType": "element",
+	"tag": "div",
+	"attrib": [
+		{
+			"key":"class",
+			"value":"main"
+		}
+	],
+	"children": [
+		{
+			"nodeType":"element",
+			"tag":"p",
+			"attrib": [
+				{
+					"key":"id",
+					"value":"text"
+				}
+			],
+			"children": [
+				{
+					"nodeType":"text",
+					"value":"hello, I came from an AST!"
+				}
+			]
+		}
+	]
+}
